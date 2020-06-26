@@ -1,0 +1,10 @@
+<aura:component>
+    <lightning:layout>
+        <lightning:layoutItem>
+            <lightning:icon iconName="action:goal" />
+        </lightning:layoutItem>
+        <lightning:layoutItem>
+            <h1 class="slds-page-header">Camping List</h1>
+        </lightning:layoutItem>
+    </lightning:layout>
+</aura:component>
